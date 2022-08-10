@@ -1,9 +1,13 @@
 # Hi there, I'm Pablo! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <!--
 **portfedh/portfedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
