@@ -1,8 +1,21 @@
-# Hi there, I'm Pablo! 👋
+### Hi there 👋
+I'm Pablo, a self taught developer from Mexico City!
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
+- 🔭 I’m currently working on: 
+    - A dashboard for managing investments using python and grafana.
+    - Automating financial report to analyse companies using a value investing approach.
+    
+- 🌱 I’m currently learning data structures and algorithms.
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
+- 👯 I’m looking to collaborate on any interesting projects. Hit me up!
+
+- 💬 Ask me about anything!
+
+- 📫 You can reach me at: portfedh@gmail.com
+
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
+
+<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
