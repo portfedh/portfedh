@@ -3,7 +3,7 @@ I'm Pablo, a self taught developer from Mexico City!
 
 - 🔭 I’m currently working on: 
     - A dashboard for managing investments using python and grafana.
-    - Automating financial report to analyse companies using a value investing approach.
+    - Automating avfinancial report to analyse companies using a value investing approach.
     
 - 🌱 I’m currently learning data structures and algorithms.
 
