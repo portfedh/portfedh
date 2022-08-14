@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Pablo, a self taught developer from Mexico City!
+
 I have a en experimental psychology batchelors degree and and MBA with a specialization in finance.
 
 - 🔭 I’m currently working on: 
