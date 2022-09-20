@@ -13,7 +13,7 @@ I'm Pablo, a self taught developer from Mexico City!
 
 - 📫 You can reach me at: portfedh@gmail.com
 
-- ⚡ Started a page to show my projects more in depth: [www.pablocruz.io](https://www.pablocruz.io)
+- ⚡ [www.pablocruz.io](https://www.pablocruz.io)
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
 
