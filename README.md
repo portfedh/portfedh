@@ -5,7 +5,7 @@ I'm Pablo, a self taught developer from Mexico City!
     - A dashboard for managing investments using python and grafana.
     - Automating financial reports to analyse companies using a value investing approach.
     
-- 🌱 I’m currently learning OOP in python and unit testing.
+- 🌱 I’m currently learning OOP in python and integration testing.
 
 - 👯 I’m looking to collaborate on any open source projects. Hit me up!
 
