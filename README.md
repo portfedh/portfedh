@@ -15,7 +15,7 @@ I'm Pablo, a self taught developer from Mexico City!
 
 - ⚡ [https://pablocruz.io/](https://pablocruz.io/)
 
-🇺🇦
+- 🇺🇦
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
 
