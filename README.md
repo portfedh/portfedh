@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Pablo, a self taught developer from Mexico City!
+This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 - 🔭 I’m currently working on: 
     - A dashboard for managing investments using python and grafana.
@@ -12,8 +13,6 @@ I'm Pablo, a self taught developer from Mexico City!
 - 💬 Ask me about anything!
 
 - 📫 You can reach me at: portfedh@gmail.com
-
-- ⚡ [https://pablocruz.io/](https://pablocruz.io/)
 
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
