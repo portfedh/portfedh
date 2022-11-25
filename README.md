@@ -7,7 +7,14 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
     - A dashboard for managing investments using python and grafana.
     - Automating financial reports to analyse companies using a value investing approach.
     
-- 🌱 I’m currently learning OOP in python.
+- 🌱 My current learning plan is:
+    2022:
+    - Daily Leetcode
+    - Headfirst JavaScript
+    - Clean up all study notes. 
+    2023:
+    - 100 Devs BootCamp
+    - FreeCodeCamp
 
 - 👯 I’m looking to collaborate on any open source projects. Hit me up!
 
