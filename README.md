@@ -11,7 +11,8 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
     2022:
     - Daily Leetcode
     - Headfirst JavaScript
-    - Clean up all study notes. 
+    - Clean up all study notes.
+
     2023:
     - 100 Devs BootCamp
     - FreeCodeCamp
