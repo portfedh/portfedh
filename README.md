@@ -8,6 +8,7 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
     - Automating financial reports to analyse companies using a value investing approach.
     
 - 🌱 My current learning plan is:
+
     2022:
     - Daily Leetcode
     - Headfirst JavaScript
