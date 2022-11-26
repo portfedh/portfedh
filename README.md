@@ -5,7 +5,7 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 - 🔭 I’m currently working on: 
     - A dashboard for managing investments using python and grafana.
-    - Automating financial reports to analyse companies using a value investing approach.
+    - Automating financial reports to analyze companies using a value investing approach.
     
 - 🌱 My current learning plan is:
 
@@ -15,10 +15,11 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
     - Clean up all study notes.
 
     2023:
+    - Daily Leetcode
     - 100 Devs BootCamp
     - FreeCodeCamp
 
-- 👯 I’m looking to collaborate on any open source projects. Hit me up!
+- 👯 I’m looking to collaborate on any interesting projects. Hit me up!
 
 - 💬 Ask me about anything!
 
