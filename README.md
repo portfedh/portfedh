@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 I'm Pablo, a self taught developer from Mexico City!
 
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
@@ -12,14 +13,15 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
     2022:
     - Daily Leetcode
     - Headfirst JavaScript
-    - Clean up all study notes.
 
     2023:
     - Daily Leetcode
     - 100 Devs BootCamp
     - FreeCodeCamp
+    - CodeAcademy
+    - Udemy WebDev
 
-- 👯 I’m looking to collaborate on any interesting projects. Hit me up!
+- 👯 I’m looking to collaborate on anything that solves interesting real world problems!
 
 - 💬 Ask me about anything!
 
