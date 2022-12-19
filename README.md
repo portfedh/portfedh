@@ -5,7 +5,7 @@ I'm Pablo, a self taught developer from Mexico City!
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 - 🔭 I’m currently working on: 
-    - A dashboard for managing investments using python and grafana.
+    - A telegram bot to remind people of recurring work tasks.
     - Automating financial reports to analyze companies using a value investing approach.
     - Automating email reports and followup material for my day to day work.
     
