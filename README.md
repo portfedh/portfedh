@@ -13,7 +13,7 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
     2022:
     - Daily Leetcode
-    - Headfirst JavaScript (Finish the book before year end) Ch3/11.
+    - Headfirst JavaScript (Finish the book before year end) Ch4/11.
 
     2023:
     - Daily Leetcode
