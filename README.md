@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo, a self taught developer from Mexico City!
+I'm Pablo, a self taught developer from Mexico City currently working in finance!
 
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
@@ -13,16 +13,16 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
     2022:
     - Daily Leetcode
-    - Headfirst JavaScript (Finish the book before year end) Ch4/11.
+    - Headfirst JavaScript (Finish the book before year end) Ch6/11.
 
     2023:
     - Daily Leetcode
     - 100 Devs BootCamp
     - FreeCodeCamp
     - CodeAcademy
-    - Udemy WebDev
+    - Udemy WebDev Course
 
-- 👯 I’m looking to collaborate on anything that solves interesting real world problems!
+- 👯 I’m looking to collaborate on anything that solves real world problems.
 
 - 💬 Ask me about anything!
 
