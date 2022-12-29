@@ -15,7 +15,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
     2022:
     - Daily Leetcode
-    - Headfirst JavaScript (Finish the book before year end) Ch6/11.
+    - Headfirst JavaScript (Finish the book before year end) Ch7/11.
 
     2023:
     - Daily Leetcode
