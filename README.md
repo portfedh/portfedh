@@ -13,12 +13,9 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
     
 - 🌱 My current learning plan is:
 
-    2022:
-    - Daily Leetcode
-    - Headfirst JavaScript Ch7/11.
-
     2023:
     - Daily Leetcode
+    - Headfirst JavaScript Ch7/11.
     - 100 Devs BootCamp
     - FreeCodeCamp
     - CodeAcademy
