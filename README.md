@@ -14,6 +14,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 - 🌱 My current learning plan is:
 
     2023:
+    - Apply to DevDegree program
     - Daily Leetcode
     - Headfirst JavaScript Ch8/11.
     - 100 Devs BootCamp
