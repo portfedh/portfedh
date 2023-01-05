@@ -15,7 +15,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
     2023:
     - Daily Leetcode
-    - Headfirst JavaScript Ch7/11.
+    - Headfirst JavaScript Ch8/11.
     - 100 Devs BootCamp
     - FreeCodeCamp
     - CodeAcademy
