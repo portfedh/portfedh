@@ -6,7 +6,7 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 This is my [leetcode.](https://leetcode.com/portfedh/)
 
-- 🔭 I’m currently working on: 
+- ⛏🔧 I’m currently working on: 
     - A telegram bot to remind people of recurring work tasks.
     - Automating financial reports to analyze companies using a value investing approach.
     - Automating email reports and followup material for my day to day work.
@@ -15,12 +15,10 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
     2023:
     - Apply to DevDegree program
+    - Headfirst JavaScript Ch9/14.
     - Daily Leetcode
-    - Headfirst JavaScript Ch8/11.
     - 100 Devs BootCamp
-    - FreeCodeCamp
-    - CodeAcademy
-    - Udemy WebDev Course
+    - FreeCodeCamp / CodeAcademy / Udemy WebDev Course (TBD)
 
 - 👯 I’m looking to collaborate on anything that solves real world problems.
 
