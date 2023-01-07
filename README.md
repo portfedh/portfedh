@@ -15,7 +15,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
     2023:
     - Apply to DevDegree program
-    - Headfirst JavaScript Ch9/14.
+    - Headfirst JavaScript Ch10/14.
     - Daily Leetcode
     - 100 Devs BootCamp
     - FreeCodeCamp / CodeAcademy / Udemy WebDev Course (TBD)
