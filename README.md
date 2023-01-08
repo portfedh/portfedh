@@ -15,10 +15,10 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
     2023:
     - Apply to DevDegree program
-    - Headfirst JavaScript Ch10/14.
-    - Daily Leetcode
-    - 100 Devs BootCamp
-    - FreeCodeCamp / CodeAcademy / Udemy WebDev Course (TBD)
+    - Finish Headfirst JavaScript. Currently at: Ch10/14.
+    - Practice Daily Leetcode
+    - Go through the 100 Devs BootCamp
+    - Supplement with FreeCodeCamp || CodeAcademy || Udemy WebDev Course 
 
 - 👯 I’m looking to collaborate on anything that solves real world problems.
 
