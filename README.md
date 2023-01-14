@@ -6,7 +6,8 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 This is my [leetcode.](https://leetcode.com/portfedh/)
 
-- ⛏🔧 I’m currently working on: 
+- ⛏🔧 I’m currently working on:
+    - Understanding closures in Javascript 🤔
     - A telegram bot to remind people of recurring work tasks.
     - Automating financial reports to analyze companies using a value investing approach.
     - Automating email reports and followup material for my day to day work.
@@ -14,9 +15,9 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 - 🌱 My current learning plan is:
 
     2023:
-    - Apply to DevDegree program
+    - Apply to DevDegree program: Writing personal statements.
     - Finish Headfirst JavaScript. Currently at: Ch11/14.
-    - Practice Daily Leetcode
+    - Practice Daily Leetcode. Currently paused because of google's foobar challenge.
     - Go through the 100 Devs BootCamp
     - Supplement with FreeCodeCamp || CodeAcademy || Udemy WebDev Course 
 
