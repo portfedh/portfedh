@@ -15,7 +15,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 - 🌱 My current learning plan is:
 
     2023:
-    - Apply to DevDegree program: Writing personal statements.
+    - Apply to DevDegree program: Writing personal statements. 3/5
     - Finish Headfirst JavaScript. Currently at: Ch11/14.
     - Practice Daily Leetcode. Currently paused because of google's foobar challenge.
     - Go through the 100 Devs BootCamp
