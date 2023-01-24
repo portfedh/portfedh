@@ -2,6 +2,8 @@
 
 I'm Pablo, a self taught developer from Mexico City currently working in finance!
 
+I learnt python and now starting with javascript. 
+
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 This is my [leetcode.](https://leetcode.com/portfedh/)
