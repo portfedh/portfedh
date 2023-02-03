@@ -18,7 +18,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
     2023:
     - [x] Apply to DevDegree program
-    - Finish Headfirst JavaScript. Currently at: Ch11/14.
+    - Finish Headfirst JavaScript. Currently at: Ch13/14.
     - Practice Daily Leetcode. Currently paused because of google's foobar challenge.
     - Go through the 100 Devs BootCamp
     - Supplement with FreeCodeCamp || CodeAcademy || Udemy WebDev Course 
