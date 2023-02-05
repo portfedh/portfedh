@@ -2,7 +2,7 @@
 
 I'm Pablo, a self taught developer from Mexico City currently working in finance!
 
-I learnt python and now starting with javascript. 
+Im currently on my journey to become a full stack web developer. 
 
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
