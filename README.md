@@ -16,11 +16,12 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 - 🌱 My current learning plan is:
 
     2023:
+    - Go through the 100 Devs BootCamp: Class 2
+    - Practice Daily Leetcode. Currently paused because of google's foobar challenge.
+    - Supplement with FreeCodeCamp || CodeAcademy || Udemy WebDev Course 
     - [x] Apply to DevDegree program
     - [x] Finish Headfirst JavaScript.
-    - Practice Daily Leetcode. Currently paused because of google's foobar challenge.
-    - Go through the 100 Devs BootCamp
-    - Supplement with FreeCodeCamp || CodeAcademy || Udemy WebDev Course 
+
 
 - 👯 I’m looking to collaborate on anything that solves real world problems.
 
