@@ -4,6 +4,8 @@ I'm Pablo, a self taught developer from Mexico City currently working in finance
 
 Im currently on my journey to become a full stack web developer. 
 
+Follow my journey in [Twitter](https://twitter.com/Portfedh)
+
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 This is my [leetcode.](https://leetcode.com/portfedh/)
@@ -27,7 +29,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
 - 💬 Ask me about anything!
 
-- 📫 You can reach me at: portfedh@gmail.com
+- 📫 You can reach me at: portfedh@gmail.com or we can have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
