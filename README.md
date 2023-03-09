@@ -27,9 +27,9 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 
 - 👯 I’m looking to collaborate on anything that solves real world problems.
 
-- 💬 Ask me about anything!
+- 💬 Lets have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
-- 📫 You can reach me at: portfedh@gmail.com or we can have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
+- 📫 You can also reach me at: portfedh@gmail.com
 
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
