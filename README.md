@@ -4,7 +4,7 @@ I'm Pablo, a self taught developer from Mexico City currently working in finance
 
 Im currently on my journey to become a full stack web developer. 
 
-Follow my journey in [Twitter](https://twitter.com/Portfedh)
+Follow me on [Twitter](https://twitter.com/Portfedh)
 
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
