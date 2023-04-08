@@ -18,7 +18,7 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
 - 🌱 My current learning plan is:
 
     2023:
-    - Go through the 100 Devs program: Class 13
+    - Go through the 100 Devs program: Class 15
     - Practice Daily Leetcode. Currently paused because of google's foobar challenge.
     - Supplement with FreeCodeCamp || CodeAcademy || Udemy WebDev Course 
     - [x] Apply to DevDegree program
