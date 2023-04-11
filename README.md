@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo, a self taught developer from Mexico City currently working in finance!
-
-I'm currently on my journey to become a full stack web developer. 
+I'm Pablo, a self taught software developer from Mexico City, currently working in finance!
 
 Follow me on [Twitter](https://twitter.com/Portfedh)
 
@@ -11,26 +9,24 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 This is my [leetcode.](https://leetcode.com/portfedh/)
 
 - ⛏🔧 I’m currently working on:
-    - A telegram bot to remind people of recurring work tasks.
     - Automating financial reports to analyze companies using a value investing approach.
-    - Automating email reports and followup material for my day to day work.
-    
+    - Automating investing and tax loss harvesring reports for my day to day work.
+    - A whatsapp bot to send automatic reminders to collegues and clients about recurring tasks.
+
 - 🌱 My current learning plan is:
 
     2023:
-    - Go through the 100 Devs program: Class 15
-    - Practice Daily Leetcode. Currently paused because of google's foobar challenge.
-    - Supplement with FreeCodeCamp || CodeAcademy || Udemy WebDev Course 
+    - Complete the 100Devs program certification.
+    - Practice daily Leetcode. (Currently doing Google's foobar challenge instead).
     - [x] Apply to DevDegree program
     - [x] Finish Headfirst JavaScript.
 
 
-- 👯 I’m looking to collaborate on anything that solves real world problems.
+- 👯 I’m interested in anything with has a positive impact in society.
 
 - 💬 Lets have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
 - 📫 You can also reach me at: portfedh@gmail.com
-
 
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
 
