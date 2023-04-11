@@ -13,16 +13,11 @@ This is my [leetcode.](https://leetcode.com/portfedh/)
     - Automating investing and tax loss harvesring reports for my day to day work.
     - A whatsapp bot to send automatic reminders to collegues and clients about recurring tasks.
 
-- 🌱 My current learning plan is:
-
-    2023:
+- 🌱 My current learning plan for 2023 is:
     - Complete the 100Devs program certification.
     - Practice daily Leetcode. (Currently doing Google's foobar challenge instead).
     - [x] Apply to DevDegree program
     - [x] Finish Headfirst JavaScript.
-
-
-- 👯 I’m interested in anything with has a positive impact in society.
 
 - 💬 Lets have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
