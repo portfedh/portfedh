@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo, a self taught software developer from Mexico City, currently working in finance!
+I'm Pablo, a self taught software developer from Mexico City currently working in finance!
 
 Follow me on [Twitter](https://twitter.com/Portfedh)
 
