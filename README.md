@@ -6,7 +6,7 @@ Follow me on [Twitter](https://twitter.com/Portfedh)
 
 This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
-This is my [leetcode.](https://leetcode.com/portfedh/)
+This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
 - ⛏🔧 I’m currently working on:
     - Automating financial reports to analyze companies using a value investing approach.
