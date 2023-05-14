@@ -15,7 +15,7 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 
 - 🌱 My current learning plan for 2023 is:
     - Complete the 100Devs program certification.
-    - Practice daily Leetcode. (Currently doing Google's foobar challenge instead).
+    - Practice daily Codewars. (Currently doing Google's foobar challenge instead).
     - [x] Apply to DevDegree program
     - [x] Finish Headfirst JavaScript.
 
