@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo, a self taught software developer from Mexico City currently working as an investment manager!
+I'm Pablo, a self taught software developer from Mexico City currently working as an investment manager in a single family office!
 
 Follow me on [Twitter](https://twitter.com/Portfedh)
 
