@@ -9,9 +9,9 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
 - ⛏🔧 I’m currently working on:
-    - Automating financial reports to analyze companies using a value investing approach.
-    - Automating investing and tax loss harvesring reports for my day to day work.
-    - A whatsapp bot to send automatic reminders to collegues and clients about recurring tasks.
+    - Automating the creation of financial reports to analyze companies using a value investing approach.
+    - Automating investing and tax loss harvesting reports for my day to day work.
+    - A telegram bot to send automatic reminders about recurring tasks.
 
 - 🌱 My current learning plan for 2023 is:
     - Complete the 100Devs program certification.
