@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo, a self taught software developer from Mexico City currently working as an investment manager in a single family office!
+I'm Pablo, a self-taught software developer from Mexico City currently working as an investment manager in a single-family office!
 
 Follow me on [Twitter](https://twitter.com/Portfedh)
 
@@ -10,13 +10,13 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 
 - ⛏🔧 I’m currently working on:
     - Automating the creation of financial reports to analyze companies using a value investing approach.
-    - Automating investing and tax loss harvesting reports for my day to day work.
+    - Automating investing and tax loss harvesting reports for my day-to-day work.
     - A telegram bot to send automatic reminders about recurring tasks.
 
 - 🌱 My current learning plan for 2023 is:
     - Complete the 100Devs program certification.
-    - Practice daily Codewars. (Currently doing Google's foobar challenge instead).
-    - [x] Apply to DevDegree program
+    - [x] Practice daily Codewars.
+    - [x] Apply to the DevDegree program
     - [x] Finish Headfirst JavaScript.
 
 - 💬 Lets have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
