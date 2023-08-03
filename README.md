@@ -1,4 +1,4 @@
-![HiThere](HeaderBanner.png)
+![Helllo There!](BannerHeader.png)
 
 I'm Pablo, a self-taught software developer from Mexico City with a background in finance. 
 
