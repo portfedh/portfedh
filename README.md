@@ -1,6 +1,6 @@
 ![Helllo There!](BannerHeader.png)
 
-I'm Pablo, a software engineer at 100Devs, living in Mexico, with a background in finance. 
+I'm Pablo, a software engineer at 100Devs, living in Mexico City, with a background in finance. 
 
 Follow me on [Twitter](https://twitter.com/Portfedh)
 
@@ -9,13 +9,11 @@ This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
 - ⛏🔧 I’m currently working on:
-    - Automating the creation of financial reports to analyze companies using a value investing approach.
-    - Automating investing and tax loss harvesting reports for my day-to-day work.
+    - Automating financial reports to analyze companies using a value investing approach.
+    - Automating tax loss harvesting reports.
     - A telegram bot to send automatic reminders about recurring tasks.
-
-- 🌱 My current learning plan for 2023 is:
-    - Complete the 100Devs program.
-
+    - An ccess control system with a QR code reader.
+    
 - 💬 Lets have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
 - 📫 You can also reach me at: portfedh@gmail.com
