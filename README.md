@@ -1,6 +1,6 @@
 ![Helllo There!](BannerHeader.png)
 
-I'm Pablo, a self-taught software developer from Mexico City with a background in finance. 
+I'm Pablo, a software engineer at 100Devs, living in Mexico, with a background in finance. 
 
 Follow me on [Twitter](https://twitter.com/Portfedh)
 
