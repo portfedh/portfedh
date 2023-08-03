@@ -1,10 +1,26 @@
-![Helllo There!](BannerHeader.png)
+<img src="BannerHeader.png" width="100%">
+
+<p align="center">
+  <a href="https://pablocruz.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pablocruzlemini/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/Portfedh" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <!-- <a href="https://shawncharles.com/angellist" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a> -->
+  <!-- <a href="https://shawncharles.com/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a> -->
+</p>
+
+
 
 I'm Pablo, a software engineer at 100Devs, living in Mexico City, with a background in finance. 
-
-Follow me on [Twitter](https://twitter.com/Portfedh)
-
-This is my blog: [https://pablocruz.io/](https://pablocruz.io/)
 
 This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
@@ -12,9 +28,9 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
     - Automating financial reports to analyze companies using a value investing approach.
     - Automating tax loss harvesting reports.
     - A telegram bot to send automatic reminders about recurring tasks.
-    - An ccess control system with a QR code reader.
+    - An access control system with a QR code reader.
     
-- 💬 Lets have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
+- 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
 - 📫 You can also reach me at: portfedh@gmail.com
 
@@ -29,17 +45,4 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-<!--
-**portfedh/portfedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
