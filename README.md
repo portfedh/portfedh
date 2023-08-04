@@ -29,6 +29,8 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
     - A telegram bot to send automatic reminders about recurring tasks.
     - An access control system with a QR code reader.
     
+- Checkout my [website](https://pablocruz.io) for more information.
+  
 - 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
 - 📫 You can also reach me at: portfedh@gmail.com
