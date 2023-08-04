@@ -25,7 +25,7 @@ I'm Pablo, a software engineer at 100Devs, living in Mexico City, with a backgro
 This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
 - ⛏🔧 I’m currently working on:
-    - Automating financial reports to analyze companies using a value investing approach.
+    - Automating financial reports to analyze public companies.
     - Automating tax loss harvesting reports.
     - A telegram bot to send automatic reminders about recurring tasks.
     - An access control system with a QR code reader.
