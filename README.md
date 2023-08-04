@@ -20,7 +20,7 @@
 
 
 
-I'm Pablo, a software engineer at 100Devs, living in Mexico City, with a background in finance. 
+I'm a software engineer at 100Devs, living in Mexico City, with a background in finance. 
 
 This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
