@@ -26,7 +26,6 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 
 - ⛏🔧 I’m currently working on:
     - Automating financial reports to analyze public companies.
-    - Automating tax loss harvesting reports.
     - A telegram bot to send automatic reminders about recurring tasks.
     - An access control system with a QR code reader.
     
