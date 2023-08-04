@@ -34,9 +34,10 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 
 - 📫 You can also reach me at: portfedh@gmail.com
 
-<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
-
-<img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
+<div align="center">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
+</div>
 
 <h1 align="center">Technologies</h1>
 <p align="center">
