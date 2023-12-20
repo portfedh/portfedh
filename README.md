@@ -40,10 +40,11 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
 </div>
 <br>
-<section align="center" style="width: 100%";>
-<h2 align="center">Technologies</h2>
-</section>
-<br>
+<div align="center" style="width: 100%";>
+<h1 align="center">Technologies</h1>
+</div>
+<be>
+<div align="center" style="width: 100%";>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,5 +54,6 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </p>
+</div>
 <!-- html-end -->
 
