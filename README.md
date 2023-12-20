@@ -39,11 +39,11 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
 </div>
-<br>
+<p></p>
 <div align="center">
 <h1 align="center">Technologies</h1>
 </div>
-<br>
+<p></p>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
