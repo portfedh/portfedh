@@ -41,7 +41,7 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 </div>
 <p></p>
 <div align="center">
-<h1 align="center">Technologies</h1>
+<h2 align="center">Technologies</h2>
 </div>
 <p></p>
 <p align="center">
