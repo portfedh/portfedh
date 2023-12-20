@@ -40,7 +40,7 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
 </div>
 <p></p>
-<div align="center">
+<div align="center" style="width: 100%";>
 <h2 align="center">Technologies</h2>
 </div>
 <p></p>
