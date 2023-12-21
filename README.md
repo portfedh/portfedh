@@ -1,14 +1,25 @@
-<img src="BannerHeader.png" width="100%">
+<img src="BannerHeader.png" width="100%" />
 
 <p align="center">
   <a href="https://pablocruz.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img
+      src="https://img.shields.io/static/v1?label=|&message=Website&color=5a5a5a&style=plastic&logo=react&logo-color=white"
+    />
   </a>
   <a href="https://www.linkedin.com/in/pablocruzlemini/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
+    <img
+      src="https://img.shields.io/static/v1?label=|&message=Linked-In&color=5a5a5a&style=plastic&logo=linkedin&logo-color=white"
+    />
   </a>
   <a href="https://twitter.com/Portfedh" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img
+      src="https://img.shields.io/static/v1?label=|&message=Twitter&color=5a5a5a&style=plastic&logo=twitter&logo-color=white"
+    />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?label=|&message=Email&color=5a5a5a&style=plastic&logo=gmail&logo-color=white"
+    />
   </a>
 </p>
 
