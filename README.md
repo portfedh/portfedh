@@ -36,7 +36,7 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
    - Data structure & algorithms
    - React Js
     
-- Checkout my [website](https://pablocruz.io) for more information.
+- Checkout my [website](https://portfedh.github.io) for more information.
   
 - 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
