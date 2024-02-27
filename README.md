@@ -25,7 +25,6 @@
 
 I'm a software engineer, living in Mexico City, with a background in finance. 
 
-This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
 - 🔧 I’m currently working on:
     - An e-commerce website for a dance studio.
@@ -33,8 +32,8 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
     - An admin and reporting system for the dance studio.
  
  - 📚 I’m also learning:
-   - Data structure & algorithms
    - React Js
+   - Data structure & algorithms
     
 - Checkout my [website](https://portfedh.github.io) for more information.
   
@@ -42,6 +41,7 @@ This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https:/
 
 - 📫 You can also reach me at: portfedh@gmail.com
 
+This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
 ## Technologies
 
