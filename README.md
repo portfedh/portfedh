@@ -27,15 +27,15 @@ I'm a software engineer, living in Mexico City, with a background in finance.
 
 
 - 🔧 I’m currently working on:
-    - An e-commerce website for a dance studio.
-    - An access control system for the dance studio.
-    - An admin and reporting system for the dance studio.
+    - An e-commerce website.
+    - An access control system.
+    - An admin and reporting system.
  
  - 📚 I’m also learning:
    - React Js
    - Data structure & algorithms
     
-- Checkout my [website](https://portfedh.github.io) for more information.
+- Checkout my [website](https://portfedh.github.io) for more information on my coding interests.
   
 - 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
