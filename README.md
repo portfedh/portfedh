@@ -27,9 +27,8 @@ I'm a software engineer, living in Mexico City, with a background in finance.
 
 
 - 🔧 I’m currently working on:
-    - An e-commerce website.
-    - An access control system.
-    - An admin and reporting system.
+    - A generative Whatsapp Chatbot
+    - An online store and reporting system.
  
  - 📚 I’m also learning:
    - React Js
