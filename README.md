@@ -27,8 +27,8 @@ I'm a software engineer, living in Mexico City, with a background in finance.
 
 
 - 🔧 I’m currently working on:
-    - A generative Whatsapp Chatbot
-    - An online store and reporting system.
+    - An online store and administrative system for a dance academy.
+    - You can watch a 5 minute video about it [here](https://www.loom.com/share/22ed97328346495dbe1b9957bff5842c?sid=545fb4f9-9513-43da-b7f0-faf70a8e4a37)
  
  - 📚 I’m also learning:
    - React Js
