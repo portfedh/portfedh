@@ -27,13 +27,13 @@ I'm a software engineer, living in Mexico City, with a background in finance.
 
 
 - 🔧 I’m currently working on:
-    - An online store and administrative system for a dance academy.
-    - You can watch a 5 minute video about it [here](https://www.loom.com/share/22ed97328346495dbe1b9957bff5842c?sid=545fb4f9-9513-43da-b7f0-faf70a8e4a37)
+    - Setting up the payment integration at [Civic Marketplace](https://www.civicmarketplace.com/)
+    - Setting up an admin system for [Salsa Candela]([https://www.civicmarketplace.com/](https://www.loom.com/share/22ed97328346495dbe1b9957bff5842c?sid=545fb4f9-9513-43da-b7f0-faf70a8e4a37)).
  
  - 📚 I’m also learning:
    - Data structure & algorithms
     
-- Checkout my [website](https://portfedh.github.io) for more information on my coding interests.
+- Checkout my [website](https://pablocruz.io/) for more information on my coding interests.
   
 - 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
