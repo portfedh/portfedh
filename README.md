@@ -27,7 +27,6 @@ I'm a software engineer, living in Mexico City, with a background in finance.
 
 
 - 🔧 I’m currently working on:
-    - Setting up the payment integration at [Civic Marketplace](https://www.civicmarketplace.com/)
     - Setting up an admin system for [Salsa Candela](https://www.loom.com/share/22ed97328346495dbe1b9957bff5842c?sid=545fb4f9-9513-43da-b7f0-faf70a8e4a37).
  
  - 📚 I’m also learning:
