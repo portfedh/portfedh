@@ -40,6 +40,8 @@ I'm a software engineer, living in Mexico City, with a background in finance.
 
 This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
 
+🇲🇽 🇺🇦
+
 ## Technologies
 
 ### Front-End Development
