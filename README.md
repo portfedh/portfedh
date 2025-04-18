@@ -23,7 +23,7 @@
   </a>
 </p>
 
-I'm a software engineer, living in Mexico City, with a background in finance. 
+I'm a software engineer, living in Mexico City, with a background in real estata and finance. 
 
 
 - 🔧 I’m currently working on:
