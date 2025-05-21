@@ -41,18 +41,6 @@ I'm a software engineer, living in Mexico City, with a background in real estate
 
 🇲🇽 🇺🇦
 
-## Technologies
-
-### Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
-
-### Front-End Development
-<img src="BannerHeader.png" width="100%" />
-
 <p align="center">
   <a href="https://portfedh.github.io/" target="_blank">
     <img
@@ -128,33 +116,6 @@ I'm a software engineer, living in Mexico City, with a background in real estate
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-<!-- html-end -->
-
-<!-- Stats-start -->
-## My Stats
-
-<div align="center">
-<br>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
-</div>
-<!-- Stats-end -->
-
-      
-### Back-End Development
-<p align="center">
-  <img alt="node js" src="https://img.shields.io/badge/Node js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="expressjs" src="https://img.shields.io/badge/Express js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">  
-</p>
-
-### Misc
-<p align="center">
-    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </p>
 <!-- html-end -->
 
