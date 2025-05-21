@@ -41,47 +41,6 @@ I'm a software engineer, living in Mexico City, with a background in real estate
 
 🇲🇽 🇺🇦
 
-<p align="center">
-  <a href="https://portfedh.github.io/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=|&message=Website&color=5a5a5a&style=plastic&logo=react&logo-color=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/pablocruzlemini/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=|&message=Linked-In&color=5a5a5a&style=plastic&logo=linkedin&logo-color=white"
-    />
-  </a>
-  <a href="https://twitter.com/Portfedh" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=|&message=Twitter&color=5a5a5a&style=plastic&logo=twitter&logo-color=white"
-    />
-  </a>
-  <a href="mailto:portfedh@gmail" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=|&message=Email&color=5a5a5a&style=plastic&logo=gmail&logo-color=white"
-    />
-  </a>
-</p>
-
-I'm a software engineer, living in Mexico City, with a background in real estate, and finance. 
-
-
-- 🔧 I’m currently working on:
-    - Setting up an admin system for [Salsa Candela](https://www.loom.com/share/22ed97328346495dbe1b9957bff5842c?sid=545fb4f9-9513-43da-b7f0-faf70a8e4a37).
-    - Working on ReactNative app for [Salsa Candela](https://www.salsa-candela.com).
- 
- - 📚 I’m also learning:
-   - Next Js
-    
-- Checkout my [website](https://pablocruz.io/) for more information on my coding interests or my [upwork profile]([https://pablocruz.io/](https://www.upwork.com/freelancers/~019782e918ca619479))
-  
-- 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
-
-- 📫 You can also reach me at: portfedh@gmail.com
-
-🇲🇽 🇺🇦
-
 ## Technologies
 
 ### Languages
