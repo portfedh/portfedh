@@ -28,30 +28,30 @@ I'm a software engineer, living in Mexico City, with a background in real estate
 
 - 🔧 I’m currently working on:
     - Setting up an admin system for [Salsa Candela](https://www.loom.com/share/22ed97328346495dbe1b9957bff5842c?sid=545fb4f9-9513-43da-b7f0-faf70a8e4a37).
-    - Working on a tenant screening automation for [Daysaver.ai](https://www.daysaver.ai/).
+    - Working on ReactNative app for [Salsa Candela](https://www.salsa-candela.com).
  
  - 📚 I’m also learning:
-   - React Native
+   - Next Js
     
-- Checkout my [website](https://pablocruz.io/) for more information on my coding interests.
+- Checkout my [website](https://pablocruz.io/) for more information on my coding interests or my [upwork profile]([https://pablocruz.io/](https://www.upwork.com/freelancers/~019782e918ca619479))
   
 - 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
 
 - 📫 You can also reach me at: portfedh@gmail.com
 
-This is my [leetcode](https://leetcode.com/portfedh/) and my [codewars.](https://www.codewars.com/users/portfedh)
-
 🇲🇽 🇺🇦
 
 ## Technologies
 
+### Languages
+
 ### Front-End Development
 <p align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 </p>
       
