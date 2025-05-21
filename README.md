@@ -65,7 +65,7 @@ I'm a software engineer, living in Mexico City, with a background in real estate
 <img alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">  
 </p>
 
-### Frameworks, Libraries, Tools & Misc
+### Misc
 <p align="center">
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
