@@ -23,15 +23,17 @@
   </a>
 </p>
 
-I'm a software engineer, living in Mexico City, with a background in real estate, and finance. 
-
+I'm a software engineer, living in Mexico City, with a background in real estate, and finance.  
+Currently focused on building full-stack applications using React, TypeScript, React Native, and Next.js.
 
 - 🔧 I’m currently working on:
-    - Working on ReactNative app for [Salsa Candela](https://www.salsa-candela.com).
+    - React Native app for [Salsa Candela](https://www.salsa-candela.com)
  
- - 📚 I’m also learning:
-   - Next Js
-    
+- 📚 I’m also learning:
+   - Next.js  
+   - TypeScript  
+   - AWS
+
 - Checkout my [website](https://pablocruz.io/) for more information on my coding interests or my [upwork profile](https://www.upwork.com/freelancers/~019782e918ca619479)
   
 - 💬 Let's have a [coffeechat.](https://calendly.com/portfedh/cofee-chat)
@@ -46,6 +48,7 @@ I'm a software engineer, living in Mexico City, with a background in real estate
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
@@ -53,7 +56,9 @@ I'm a software engineer, living in Mexico City, with a background in real estate
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
       
 ### Back-End Development
@@ -75,9 +80,7 @@ I'm a software engineer, living in Mexico City, with a background in real estate
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-<!-- html-end -->
 
-<!-- Stats-start -->
 ## My Stats
 
 <div align="center">
@@ -85,4 +88,3 @@ I'm a software engineer, living in Mexico City, with a background in real estate
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=portfedh&show_icons=true&theme=radical" />
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portfedh&layout=compact" />
 </div>
-<!-- Stats-end -->
