@@ -40,7 +40,7 @@ Currently focused on building full-stack applications using React, TypeScript, R
 
 - 📫 You can also reach me at: portfedh@gmail.com
 
-🇲🇽 🇺🇦
+🇲🇽 🇺🇦 🇵🇸
 
 ## Technologies
 
